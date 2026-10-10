@@ -7,3 +7,4 @@ Downloads for the Windows app. The source code is not here.
 The installer is not code-signed yet, so Windows may show "Windows protected your PC". Click **More info → Run anyway**.
 
 The app updates itself. Pro is bought in the Make Yourself phone app on Google Play; sign in on the laptop with the same Google account and it unlocks.
+
